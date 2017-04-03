@@ -1,0 +1,23 @@
+h1 {
+    text-align: center;
+    font-size: 350%;
+    color: red;
+    font-family: "comic sans ms", Times, serif;
+}
+img {
+    display: block;
+    margin: auto;
+    width: 40%;
+}
+body {
+    background-color: white;
+}
+p {text-align: center;
+font-size: 150%;
+color: red;
+font-family: "comic sans ms", Times, serif;
+
+
+li {
+    list-style-type: none;
+}
